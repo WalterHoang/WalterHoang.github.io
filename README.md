@@ -3,7 +3,7 @@ My portfolio website using angular
 
 ## Notes
 To add a remote repo to the prod build use --base-href PROJECT_NAME, where PROJECT_NAME is the name of your project in GitHub.
-To publish using the angular- cli use 'angular-cli-ghpages --branch=master --dir=docs'
+To publish using the angular- cli use `angular-cli-ghpages --branch=master --dir=docs`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.14.
 
